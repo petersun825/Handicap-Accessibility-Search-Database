@@ -11,7 +11,7 @@ From the 521 website it states their purpose: "Pursuant to M.G.L. c. 22, § 13A,
 # Technology
 Used html, css, javascript, and set up external database.  Called database from javascript, returned json and used for loop to turn json into table in html.  Css to make things look pretty.
  
-![picture](Handicap-Accessibility-Search-Database/Screen Shot 2018-06-02 at 10.15.06 PM.png)
+![Screenshot](Screen Shot 2018-06-02 at 10.15.06 PM.png)
  
  
 Link to Massachusetts AAB website: https://www.mass.gov/aab-rules-and-regulations
