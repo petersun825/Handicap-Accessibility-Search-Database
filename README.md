@@ -1,5 +1,6 @@
 # How to Use
 Download html, css, and javascript into one folder location.  Run html and can search.
+Or just go to this link: https://codepen.io/petersun825/pen/JvEmRL
 # Handicap-Accessibility-Search-Database
 Massachusetts enforces Architectural Access Board (521 Code of Massachusetts Regulation) for handicap accessibility.  This search ability is to make finding relevant information easier. 
 
